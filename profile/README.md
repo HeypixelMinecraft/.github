@@ -5,7 +5,7 @@
 <div>&nbsp;</div>
 <div>
   <a href="https://mcbjd.net"><img src="https://img.shields.io/badge/Website-官网-8c36db" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://space.bilibili.com/2010145622/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <a href="https://mp.weixin.qq.com/s/ZkUwDa5nQJg680IbCK7PWg"><img src="https://img.shields.io/badge/Weixin-微信-00FF00" /></a>&emsp;
 </div>
 
