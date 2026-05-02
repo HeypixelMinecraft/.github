@@ -1,9 +1,8 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Heypixel.init();&center=true&size=27)](https://git.io/typing-svg)
-
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90" />
+</p>
 <div>&nbsp;</div>
-
 <div>
   <a href="https://mcbjd.net"><img src="https://img.shields.io/badge/Website-官网-8c36db" /></a>&emsp;
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
