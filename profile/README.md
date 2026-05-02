@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hello,+World!;Welcome+to+my+GitHub!" />
 </p>
 <div>&nbsp;</div>
 <div>
