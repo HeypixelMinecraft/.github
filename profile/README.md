@@ -55,7 +55,7 @@
 
 这是您要求的“妖猫开宝马”的画面，希望您喜欢这个充满想象和奇幻风格的作品。如果您有其他的要求或者想要调整，请告诉我。
 
-<img src="https://github.com/HeypixeMinecraft/.github/blob/main/bmw.jpg?raw=true">
+<img width="1024" height="1024" alt="bmw" src="https://github.com/user-attachments/assets/4edecb09-5c8c-4bac-9127-08bbc6ed6460" />
 
 </div align="center">
 
