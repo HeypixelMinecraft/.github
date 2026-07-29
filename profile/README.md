@@ -60,6 +60,8 @@
 </div align="center">
 
 
+
+
 # 布吉岛，是一个和谐有爱的服务器
 
 ## 🎮 布吉岛端游震撼发布！
@@ -95,3 +97,7 @@ UHC
 更多精彩玩法正在火热开发中...
 
 Copyright © 2026 BuGLand Studio.
+
+https://github.com/user-attachments/assets/1c0b0aa3-8b40-492a-97f1-0f115093bca2
+
+
